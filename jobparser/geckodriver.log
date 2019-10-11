@@ -1,0 +1,523 @@
+1570395137301	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Daria\\AppData\\Local\\Temp\\rust_mozprofile.DOqX1WPxHjpz"
+1570395138699	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570395138699	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570395138700	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570395138701	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1570395146438	Marionette	INFO	Listening on port 62899
+1570395146900	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 10896, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(18960,120) Code: 0x80070057 format 0
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(18960,120) Code: 0x80070057 format 0
+[Parent 10896, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 10896, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child[Child 10944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_cha[Parent 10896, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1570395265502	Marionette	INFO	Stopped listening on port 62899
+[GPU 4
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1570395405880	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Daria\\AppData\\Local\\Temp\\rust_mozprofile.FUvATrUayIeP"
+1570395407778	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570395407779	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570395407779	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570395407779	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1570395412220	Marionette	INFO	Listening on port 62992
+1570395412243	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(18960,120) Code: 0x80070057 format 0
+JavaScript warning: https://data.gov.ru/sites/default/files/js/js_LuIt6PC5SOWN-W_wGTtNFQ1LUC3XNV7FxZ4m2WwGeo8.js, line 3184: unreachable code after return statement
+JavaScript warning: https://data.gov.ru/sites/default/files/js/js_LuIt6PC5SOWN-W_wGTtNFQ1LUC3XNV7FxZ4m2WwGeo8.js, line 3184: unreachable code after return statement
+[Parent 11652, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 11652, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(18960,120) Code: 0x80070057 format 0
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://geekbrains.ru"
+console.warn: nsLoginManager: "searchLogins: `formActionOrigin` or `httpRealm` is recommended"
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(18960,120) Code: 0x80070057 format 0
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://geekbrains.ru"
+console.warn: nsLoginManager: "searchLogins: `formActionOrigin` or `httpRealm` is recommended"
+1570396391854	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Daria\\AppData\\Local\\Temp\\rust_mozprofile.TwndWpnLjG1b"
+1570396393110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570396393111	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570396393111	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570396393111	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1570396396982	Marionette	INFO	Listening on port 63158
+1570396397103	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13080, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_[Child 692, Cchahrome_ChildThread] WAnnelRNING: pi_winpe error: 109: file z:/task_1569974.c145/bcu,i line 341
+ld/src/ipc/[Cchhromium/src/chrome/common/ipc_channel_win.cc, line 341
+[i[Parent 13080, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child1570396476306	Marionette	INFO	Stopped listening on port 63158
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 11724, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1570396515493	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Daria\\AppData\\Local\\Temp\\rust_mozprofile.3RVLfNRPtwLX"
+1570396517354	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570396517354	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570396517355	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570396517355	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Child 11324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc1570396521241	Marionette	INFO	Listening on port 63196
+1570396521294	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(18960,120) Code: 0x80070057 format 0
+[Child 11708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1570396604345	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Daria\\AppData\\Local\\Temp\\rust_mozprofile.JVNVXWnHPg5S"
+1570396605554	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570396605554	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570396605554	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570396605554	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1570396609194	Marionette	INFO	Listening on port 63288
+1570396609648	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(18960,120) Code: 0x80070057 format 0
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(18960,120) Code: 0x80070057 format 0
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(18960,120) Code: 0x80070057 format 0
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(18960,120) Code: 0x80070057 format 0
+1570397029477	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Daria\\AppData\\Local\\Temp\\rust_mozprofile.NSVCC8ovxvkf"
+1570397030638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570397030638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570397030638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570397030638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1570397033927	Marionette	INFO	Listening on port 63443
+1570397034241	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(18960,120) Code: 0x80070057 format 0
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://geekbrains.ru"
+console.warn: nsLoginManager: "searchLogins: `formActionOrigin` or `httpRealm` is recommended"
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(18960,120) Code: 0x80070057 format 0
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://geekbrains.ru"
+console.warn: nsLoginManager: "searchLogins: `formActionOrigin` or `httpRealm` is recommended"
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(18960,120) Code: 0x80070057 format 0
+console.error: "TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:64:20\nonMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:82:11\nemit@resource://devtools/shared/event-emitter.js:190:24\nemit@resource://devtools/shared/event-emitter.js:271:18\ngetMutations/<@resource://devtools/shared/fronts/inspector.js:429:12\n"
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:64:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:82:11
+emit@resource://devtools/shared/event-emitter.js:190:24
+emit@resource://devtools/shared/event-emitter.js:271:18
+getMutations/<@resource://devtools/shared/fronts/inspector.js:429:12
+
+[Parent 1264, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 1264, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 57console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1570398561015	Marionette	INFO	Stopped listening on port 63443
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1570398693445	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Daria\\AppData\\Local\\Temp\\rust_mozprofile.vcFtviGRrUKA"
+1570398694686	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570398694686	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570398694686	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570398694686	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1570398699064	Marionette	INFO	Listening on port 63644
+1570398699239	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570399695877	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Daria\\AppData\\Local\\Temp\\rust_mozprofile.kqo4scpD4mhS"
+1570399698038	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570399698038	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570399698038	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570399698038	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1570399701990	Marionette	INFO	Listening on port 63978
+1570399702186	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13276, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 13276, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_chan[Parent 13276, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1570400572906	Marionette	INFO	Stopped listening on port 63978
+[GPU 11656, Chrome_C
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+hildThread] WARNING: pipe error: 109: file z:/taJavaScript error: resource://gre/modules/TelemetryController.jsm, line 516: Error: submitExternalPing - Submission is not allowed after shutdown, discarding ping of type: modules
+ing extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570400221893	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570400221893	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570400221893	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1570400226337	Marionette	INFO	Listening on port 64097
+1570400226356	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570400257500	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Daria\\AppData\\Local\\Temp\\rust_mozprofile.wG8qOYrKUOq8"
+1570400259913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570400259913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570400259913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570400259913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1570400264384	Marionette	INFO	Listening on port 64139
+1570400264428	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 7556, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1570400622823	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Daria\\AppData\\Local\\Temp\\rust_mozprofile.5TBJuilBxrlM"
+1570400624891	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570400624892	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570400624892	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570400624892	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1570400631054	Marionette	INFO	Listening on port 64363
+1570400631220	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570403977737	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Daria\\AppData\\Local\\Temp\\rust_mozprofile.CUmxwFIdXFNb"
+1570403982044	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570403982044	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570403982044	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570403982045	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1570403989360	Marionette	INFO	Listening on port 65087
+1570403989598	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570404129930	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Daria\\AppData\\Local\\Temp\\rust_mozprofile.EcV1ElC67qns"
+1570404133864	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570404133864	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570404133864	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570404133864	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1570404139038	Marionette	INFO	Listening on port 65260
+1570404139159	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570404378606	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Daria\\AppData\\Local\\Temp\\rust_mozprofile.F7YmssMOWtxX"
+1570404379569	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570404379569	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570404379582	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570404379582	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1570404383085	Marionette	INFO	Listening on port 65446
+1570404383466	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570404497048	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Daria\\AppData\\Local\\Temp\\rust_mozprofile.pWoAaeKrKj1p"
+1570404498017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570404498017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570404498018	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570404498018	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1570404501349	Marionette	INFO	Listening on port 65498
+1570404501435	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570404782852	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Daria\\AppData\\Local\\Temp\\rust_mozprofile.tAENd4eZ6z9h"
+1570404783822	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570404783822	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570404783823	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570404783823	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1570404786896	Marionette	INFO	Listening on port 49185
+1570404787158	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570405039777	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Daria\\AppData\\Local\\Temp\\rust_mozprofile.2lpcEqUMIb8H"
+1570405040649	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570405040649	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570405040650	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570405040650	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1570405044328	Marionette	INFO	Listening on port 49288
+1570405044642	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.95.js, line 32: Array.slice is deprecated; use Array.prototype.slice instead
+1570406079381	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Daria\\AppData\\Local\\Temp\\rust_mozprofile.xs75kr6OTGEw"
+1570406080583	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570406080583	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570406080583	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570406080584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1570406085184	Marionette	INFO	Listening on port 49690
+1570406085247	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+1570406156560	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Daria\\AppData\\Local\\Temp\\rust_mozprofile.yTPGo2UvUJDk"
+1570406157454	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570406157454	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570406157454	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570406157454	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1570406161034	Marionette	INFO	Listening on port 49881
+1570406161424	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 1392, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 156[Parent 1392, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ip[Parent 1392, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 29521570406363121	Marionette	INFO	Stopped listening on port 49881
+[GPU 41
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ "C:\\Users\\Daria\\AppData\\Local\\Temp\\rust_mozprofile.Hlr72TX5u5QN"
+1570406289108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570406289108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570406289109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570406289109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1570406292417	Marionette	INFO	Listening on port 49967
+1570406292905	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570406352099	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Daria\\AppData\\Local\\Temp\\rust_mozprofile.t7hHbFcgb4xF"
+1570406352974	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570406352974	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570406352974	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570406352974	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1570406356678	Marionette	INFO	Listening on port 50016
+1570406356926	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570406644053	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Daria\\AppData\\Local\\Temp\\rust_mozprofile.j0P8axKeaLyd"
+1570406645031	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570406645031	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570406645032	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570406645032	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1570406648283	Marionette	INFO	Listening on port 50229
+1570406648329	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://as-sec.casalemedia.com/cygnus?fn=indexResponse834214e086&v=8.8&s=345728&r=%7B%22id%22%3A%22834214e086%22%2C%22site%22%3A%7B%22page%22%3A%22zillow.com%22%2C%22ref%22%3A%22zillow.com%22%7D%2C%22imp%22%3A%5B%7B%22id%22%3A%220%22%2C%22video%22%3A%7B%22mimes%22%3A%5B%22video%2Fmp4%22%2C%22application%2Fjavascript%22%2C%22video%2Fwebm%22%2C%22video%2Fquicktime%22%2C%22video%2Fogg%22%5D%2C%22minduration%22%3A0%2C%22maxduration%22%3A30%2C%22protocols%22%3A%5B2%2C3%2C5%2C6%5D%2C%22w%22%3A640%2C%22h%22%3A480%2C%22linearity%22%3A1%2C%22api%22%3A%5B1%2C2%5D%2C%22playbackmethod%22%3A%5B3%5D%2C%22startdelay%22%3A0%7D%2C%22ext%22%3A%7B%22sid%22%3A%22pr_1_1_s%22%2C%22custom%22%3A%22videoPlayback%22%7D%2C%22bidfloor%22%3A8%7D%5D%7D, line 1: ReferenceError: indexResponse834214e086 is not defined
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221e7532c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 352
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221e7532c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ed599c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 352
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ed599c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ed59e000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 352
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ed59e000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ed59c800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 352
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ed59c800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ed5a1c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 352
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ed5a1c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ec014000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 352
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ec014000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ec015000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 352
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ec015000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ec016400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 352
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ec016400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ec017400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 352
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ec017400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ec018400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 352
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ec018400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ec019400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 352
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ec019400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ec01a400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 352
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ec01a400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ec01b400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 352
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ec01b400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ed59fc00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 352
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ed59fc00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ec01c400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 352
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ec01c400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ec01e400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 352
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ec01e400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ec01d400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 352
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ec01d400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ec01f400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 352
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ec01f400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ec021400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 352
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ec021400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ec020400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 352
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ec020400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ec022400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 352
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ec022400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221eee24400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 352
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221eee24400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221eee23400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 352
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221eee23400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221eee25400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 352
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221eee25400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221eee27800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 352
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221eee27800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221eee26800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 352
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221eee26800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221eee28800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 352
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221eee28800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221eee29800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 352
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221eee29800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ed5a0c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 352
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221ed5a0c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221eee2a800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 352
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221eee2a800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221eee2b800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 352
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221eee2b800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221eee2c800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 352
+[Child 936, MediaDecoderStateMachine #1] WARNING: Decoder=221eee2c800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file z:/task_1569974145/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Parent 9480, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9480, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1570407694857	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Daria\\AppData\\Local\\Temp\\rust_mozprofile.4RWLaBpFwU4k"
+1570407695806	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570407695806	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570407695806	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570407695807	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1570407699921	Marionette	INFO	Listening on port 50720
+1570407700209	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12832, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12832, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12832, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4656, Chrome_ChildThread] WARNING: pipe error: 109: file[Parent 12832, Gecko_IOThread] WARNI z:/task_1569974145/build/src/ipc/chromium/src/chrome/commonNG: file z:/task_1569974145/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1570407749649	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Daria\\AppData\\Local\\Temp\\rust_mozprofile.zNTgkJ7KCHXd"
+1570407752428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570407752429	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570407752429	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570407752429	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1570407755793	Marionette	INFO	Listening on port 50769
+1570407755988	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4624, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ip[Child 10288, Chrome_Cch/iclhdrTohmrieuamd] W/AsRNING: pipe error: r109: file z:/taskc/chrome/co_m15699mon/ipc_7c4ha145/buinnel_win.cld/src/ipc/chc,romium/src /lchrome/cine 341
+ommon/ipc_channel_win.cc, line 341
+[[Parent 4624, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1570407840265	Marionette	INFO	Stopped listening on port 50769
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1570407864120	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Daria\\AppData\\Local\\Temp\\rust_mozprofile.StzHmIXMiWRV"
+1570407865094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570407865094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570407865094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570407865094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1570407868630	Marionette	INFO	Listening on port 50815
+1570407869061	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 3516, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 3516, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21570407898060	Marionette	INFO	Stopped listening on port 50815
+1570407926217	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Daria\\AppData\\Local\\Temp\\rust_mozprofile.9VIqBRMpbZuQ"
+1570407927181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570407927181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570407927181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570407927181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1570407931331	Marionette	INFO	Listening on port 50868
+1570407931585	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5996, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 5996, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2052, Chrome_ChildThread][Parent 5996, Gecko_IOThread] WARNING: file z:/task_1569974145/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 5996, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11621570408180063	Marionette	INFO	Stopped listening on port 50868
+[GPU 948
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+eprotected.com/sca.17.4.95.js, line 32: Array.slice is deprecated; use Array.prototype.slice instead
+JavaScript error: https://s.zillowstatic.com/hdp/variants-ff4bedbafc.js, line 1: Error: Fetch Request Timeout
+JavaScript error: https://s.zillowstatic.com/hdp/variants-ff4bedbafc.js, line 1: Error: Fetch Request Timeout
+1570474644194	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Daria\\AppData\\Local\\Temp\\rust_mozprofile.E5JP7UNb6NCe"
+1570474648653	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570474648654	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570474648655	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570474648655	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Parent 1164, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1271570474658785	Marionette	INFO	Listening on port 52026
+1570474658892	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 13060, Chrom[Child 3552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+e_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 1164, Gecko_IOThread] WARNING: file z:/task_1569974145/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 1164, Gecko_IOThread] WARNING: file z:/task_1569974145/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1570474878570	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Daria\\AppData\\Local\\Temp\\rust_mozprofile.ZBMqxni27oJq"
+1570474879697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570474879697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570474879697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570474879697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1570474883717	Marionette	INFO	Listening on port 52068
+1570474883848	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 856, Chrome_ChildThread] WARNING: pipe erro[Child 8820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 812, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 121570474897314	Marionette	INFO	Stopped listening on port 52068
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1570476397276	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Daria\\AppData\\Local\\Temp\\rust_mozprofile.GlqfD95Bp99f"
+1570476399370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570476399370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570476399371	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570476399371	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1570476403493	Marionette	INFO	Listening on port 52269
+1570476403528	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+[Parent 11872, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 11872, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 680: TypeError: this.tablesData[table] is undefined
+[Child 12076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child [Parent 11872, Gecko_IOThread] WARNING: file z:/task_1569974145/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 11872, Gecko_IOThread] WARNING: file z:/task_1569974145/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 11872, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 151570476412035	Marionette	INFO	Stopped listening on port 52269
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 2624, C1570476655723	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Daria\\AppData\\Local\\Temp\\rust_mozprofile.Rs22OQqmO9D6"
+1570476658615	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570476658615	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570476658616	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570476658616	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:125:7\n"
+[Parent 7232, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 7232, Gecko_IOThread] WARNING: file z:/task_1569974145/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+[Parent 7232, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9556[Parent 7232, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1570476671658	Marionette	INFO	Listening on port 52448
+[Parent 7232, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8888, 1570476674711	Marionette	INFO	Stopped listening on port 52448
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x560005,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+1570476725024	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Daria\\AppData\\Local\\Temp\\rust_mozprofile.KyzlWRt5m0hY"
+1570476727296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570476727296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570476727296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570476727296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1570476732187	Marionette	INFO	Listening on port 52493
+1570476732693	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570476979736	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Daria\\AppData\\Local\\Temp\\rust_mozprofile.wr88fiX3jaER"
+1570476980982	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570476980982	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570476980983	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570476980983	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1570476985659	Marionette	INFO	Listening on port 52625
+1570476985987	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570477209005	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Daria\\AppData\\Local\\Temp\\rust_mozprofile.u3unTcyNSCyt"
+1570477210309	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570477210309	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570477210310	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570477210310	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1570477214854	Marionette	INFO	Listening on port 52690
+1570477215307	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570477393835	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Daria\\AppData\\Local\\Temp\\rust_mozprofile.SOv1ccIda9ui"
+1570477394891	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570477394892	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570477394892	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570477394892	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Parent 6512, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569974145/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1041570477400117	Marionette	INFO	Listening on port 52763
+1570477400176	Marionette	WARN	TLS certificate errors will be ignored for this session
